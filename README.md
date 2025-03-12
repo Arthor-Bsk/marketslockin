@@ -1,2 +1,2 @@
 # marketslockin
-Website dedicated to gather relevant data to the informed investor
+Website dedicated to gather relevant data for the informed investor
